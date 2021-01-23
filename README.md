@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-<img src = './gif.gif'>
+<img width = 200px height = 300px src = './gif.gif'>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
